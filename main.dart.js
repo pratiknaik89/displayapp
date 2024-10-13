@@ -41251,7 +41251,7 @@ h.toString
 n=h.f.lX(B.Md)
 q=3
 s=6
-return A.Z(A.aF1(A.fl("http://"+o.x.a.a+"/")),$async$yV)
+return A.Z(A.aF1(A.fl("https://"+o.x.a.a+"/")),$async$yV)
 case 6:m=b
 n.aW()
 if(m.b===200){h=m
@@ -41292,7 +41292,7 @@ n=B.cD.PZ(o.r,null)
 A.h0(n)
 k=t.N
 s=6
-return A.Z(A.aFD(A.fl("http://"+o.x.a.a+"/setData"),n,A.ar(["Content-Type","text/plain"],k,k)),$async$ud)
+return A.Z(A.aFD(A.fl("https://"+o.x.a.a+"/setData"),n,A.ar(["Content-Type","text/plain"],k,k)),$async$ud)
 case 6:m=b
 k=m.b
 j=t.Pu
